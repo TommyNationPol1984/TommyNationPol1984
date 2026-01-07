@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @TommyNationPol1984
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-TommyNationPol1984/TommyNationPol1984 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+/liberty-echo
+├─ /frontend        # React/Next UI, component library, Figma tokens
+├─ /backend         # API services: synth, clone, dub, admin
+├─ /models          # Model wrappers, LoRA adapters, vocoder integrations
+├─ /inference       # Streaming inference, batching, caching
+├─ /tools           # Audio utilities: alignment, G2P, postFX chain
+├─ /ops             # Deployment manifests, monitoring, SLOs
+├─ /docs            # Architecture, API contracts, consent templates
+└─ README.md
